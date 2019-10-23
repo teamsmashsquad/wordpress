@@ -1,3 +1,6 @@
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
 # https://github.com/docker-library/wordpress
 
 ## Maintained by: [the Docker Community](https://github.com/docker-library/wordpress)
